@@ -1,16 +1,16 @@
 import React from 'react';
 import { ScrollView, StyleSheet, Text } from 'react-native';
 
-export default class SettingsScreen extends React.Component {
+export default class SearchScreen extends React.Component {
   static navigationOptions = {
-    title: 'Settings',
+    title: 'Search',
   };
 
   render() {
     return (
       <ScrollView style={styles.container}>
         <Text>
-          Settings Screen
+          Search Screen
         </Text>
       </ScrollView>
     );
