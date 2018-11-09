@@ -1,0 +1,1 @@
+## Learning React Native and getting familiar with the layout and functionality
